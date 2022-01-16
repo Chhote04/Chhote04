@@ -7,9 +7,9 @@
 - 
 - 🌱 I’m currently learning Website Development
 - 
-- 👯 I’m currently pursuing **MCA from ITM University Gwalior**
+- 👯 I’m currently pursuing *MCA from ITM University Gwalior*
 
-- 🤝 I’m looking for inernship **Web Designing**
+- 🤝 I’m looking for inernship *Web Designing*
 
 - 📫 How to reach me **chhotelaljatav143@gmail.com**
 - <h3 align="left">Connect with me:</h3>
