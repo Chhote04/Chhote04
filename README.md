@@ -2,8 +2,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chhote Lal Jatav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 👋 Hi, I’m Chhote Lal Jatav aka DANNY
+- 
 - 👀 I’m interested in Web Designing and Development
+- 
 - 🌱 I’m currently learning Website Development
+- 
 - 👯 I’m currently pursuing **MCA from ITM University Gwalior**
 
 - 🤝 I’m looking for inernship **Web Designing**
