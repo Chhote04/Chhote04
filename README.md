@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **chhotelaljatav143@gmail.com**
 
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chote04&" alt="chhotelal_jatav" /></p>
+<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=chote04" alt="chhotelal_jatav" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhote04&show_icons=true&locale=en&layout=compact" alt="hybridoitc" /></p>
 
