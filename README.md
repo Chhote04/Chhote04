@@ -10,10 +10,9 @@
 
 - 📫 How to reach me **chhotelaljatav143@gmail.com**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybridoitc&" alt="hybridoitc" /></p>
-<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=hybridoitc" alt="hybridoitc" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybridoitc&show_icons=true&locale=en&layout=compact" alt="hybridoitc" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhote04&show_icons=true&locale=en&layout=compact" alt="hybridoitc" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
