@@ -4,7 +4,7 @@
 
 - 🔭 I’m Learning **Web Development**
 
-- 👯 I’m currently pursuing **MCA from ITM University Gwalior**
+- 👯 I’m currently pursuing **MCA from ITM Gwalior**
 
 - 🤝 I’m looking for inernship **Web Designing**
 
