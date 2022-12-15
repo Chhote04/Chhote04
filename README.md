@@ -16,11 +16,10 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chhote04&label=Profile%20views&color=0e75b6&style=flat" alt="Chhote04" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-➥ Here is my Resume : <a href="https://drive.google.com/file/d/13NCda59UScVFM57_hr26bBKNNwoSAdOG/view?usp=share_link">**RESUME**</a>
-  </p>
+
 <p align="left">
 chhotelaljatav143@gmail.com
 
@@ -41,6 +40,6 @@ chhotelaljatav143@gmail.com
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <a href="https://github.com/Chhote04/github-readme-stats"><img alt="Chhote Lal Jatav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chhote04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chhote04/github-readme-stats"><img alt="Chhote Lal Jatav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhBadve&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="330" height="190" /></a>
+  <a href="https://github.com/Chhote04/github-readme-stats"><img alt="Chhote Lal Jatav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhote04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="330" height="190" /></a>
 <a href="https://github.com/Chhote04/github-readme-activity-graph"><img alt="Chhote lal Jatav's Activity Graph" src="" /></a>
 <p><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/></p>
