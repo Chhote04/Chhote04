@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/13NCda59UScVFM57_hr26bBKNNwoSAdOG/view?usp=share_link">**RESUME**</a>
+   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/13NCda59UScVFM57_hr26bBKNNwoSAdOG/view?usp=share_link">RESUME</a>
    <br>
-chhotelaljatav143@gmail.com
+##chhotelaljatav143@gmail.com
 
   
 </p>
