@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
 
 <br>
-<img align="right" alt="Coding" width="auto" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
+<img align="center" alt="Coding" width="auto" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 <br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Chhote Lal Jatav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -46,5 +46,4 @@ chhotelaljatav143@gmail.com
 
 <a href="https://github.com/Chhote04/github-readme-stats"><img alt="Chhote Lal Jatav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chhote04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Chhote04/github-readme-stats"><img alt="Chhote Lal Jatav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhote04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="330" height="190" /></a>
-<a href="https://github.com/Chhote04/github-readme-activity-graph"><img alt="Chhote lal Jatav's Activity Graph" src="" /></a>
 
