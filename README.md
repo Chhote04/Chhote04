@@ -1,8 +1,9 @@
 ![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Chhote Lal Jatav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 - 🔭 I’m Learning **Web Development**
 
@@ -21,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+   ➥ Here is my Resume : <a href="https://drive.google.com/drive/u/0/folders/1ccI_cOcwUEGtqDuB8EVZWjEhDVPIj7UB">**RESUME**</a>
 chhotelaljatav143@gmail.com
 
   
