@@ -4,17 +4,17 @@
 
 <br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Chhote Lal Jatav</h1>
-<h3 align="center">A passionate Laravel developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 
 
-- 🔭 I’m Learning **Angular**
+- 🔭 I’m Learning **MERN Stack | Flutter and Wordpress**
 
 - 👯 I’m currently pursuing **MCA from ITM Gwalior**
 
-- 🤝 I’m looking for Full Time Job as **Laravel Developer**
+- 🤝 I’m looking for Full Time Job as **Web Developer**
 
 - 📫 How to reach me **chhotelaljatav143@gmail.com**
 
@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/13NCda59UScVFM57_hr26bBKNNwoSAdOG/view?usp=share_link">RESUME</a>
+   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1WFb3SkhO16IuqPWHb3i8wBDDfcHUrrJz/view?usp=drivesdk">RESUME</a>
    <br>
 **chhotelaljatav143@gmail.com**
 
