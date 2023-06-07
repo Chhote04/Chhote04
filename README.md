@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m Learning **MERN Stack | Flutter and Wordpress**
+- 🔭 I’m Learning **Flutter and MERN and MEAN Stack Development **
 
 - 👯 I’m currently pursuing **MCA from ITM Gwalior**
 
