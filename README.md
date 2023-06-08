@@ -10,11 +10,9 @@
 
 
 
-- 🔭 I’m Learning **Flutter and MERN and MEAN Stack Development **
+- 🔭 I’m Learning **Frontend Development **
 
 - 👯 I’m currently pursuing **MCA from ITM Gwalior**
-
-- 🤝 I’m looking for Full Time Job as **Web Developer**
 
 - 📫 How to reach me **chhotelaljatav143@gmail.com**
 
