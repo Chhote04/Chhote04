@@ -1,8 +1,4 @@
-![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
 
-<br>
-
-<br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Chhote Lal Jatav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <br/>
