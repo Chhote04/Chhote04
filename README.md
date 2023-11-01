@@ -31,7 +31,6 @@
 <p align="left">
    ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1-87cf8rE5_dT_joDi7ClsZofE_OqJV3e/view?usp=sharing">RESUME</a>
    <br>
-**chhotelaljatav143@gmail.com**
 
   
 </p>
