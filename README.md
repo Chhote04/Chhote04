@@ -9,6 +9,8 @@
 - 🔭 I’m **Jr. Web Developer**
 
 - 👯 I’m currently pursuing **MCA from ITM Gwalior**
+- 👯 I’m currently learing **JAVA & SpringBoot & Hibernate**
+- 👯 I’m currently learing **PL?SQL**
 
 - 📫 How to reach me **jatav.developer@gmail.com**
 
