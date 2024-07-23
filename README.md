@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m **Jr. Web Developer**
+- 🔭 I’m **Web Developer**
 
 - 👯 I’m currently pursuing **MCA from ITM Gwalior**
 - 👯 I’m currently learing **JAVA & SpringBoot & Hibernate**
