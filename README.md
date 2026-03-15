@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Chhote Lal Jatav</h1>
-<h3 align="center">A Web developer from India</h3>
+<h3 align="center">A Full Stack developer from India</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 
 
 - 🔭 I’m **Web Developer**
-- 📫 How to reach me **contact@chhotelaljatav.online**
+- 📫 How to reach me **chhotelaljatav.clj@gmail.com**
 
 
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1G8fvUyytSQMIl2XCfKwJB7q-Lp7HbBRC/view?usp=sharing">RESUME</a>
+   ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1gorH5ecdyjcQpxzYHFG6W5DQD1vv1wxA/view?usp=sharing">RESUME</a>
    <br>
 
   
